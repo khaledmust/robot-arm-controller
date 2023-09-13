@@ -5,8 +5,8 @@ This project demonstrates the control of a robot arm using a Hall effect sensor 
 
 ## Table of Contents
 
-[Hardware Components](#hardware components)
-[Software Requirements](#software requirements)
+[Hardware Components](#hardware-components)
+[Software Requirements](#software-requirements)
 [Setup](#setup)
 [Usage](#usage)
 
