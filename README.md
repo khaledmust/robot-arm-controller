@@ -36,12 +36,13 @@ To replicate this project, you will need the following hardware components:
 
     Open the Arduino IDE, import the project, and upload the code to the Arduino board.
 
-Usage
+## Usage
 
-    Wear the Hall effect sensor glove on your hand, ensuring that each sensor is positioned on a finger.
+Wear the Hall effect sensor glove on your hand, ensuring that each sensor is positioned on a finger.
+    
+Power on the Arduino board.
 
-    Power on the Arduino board.
+The glove's sensors will detect your finger movements and control the corresponding servo motors on the robot arm. For
+example, bending your thumb can control the thumb servo, and bending your index finger can control the index servo.
 
-    The glove's sensors will detect your finger movements and control the corresponding servo motors on the robot arm. For example, bending your thumb can control the thumb servo, and bending your index finger can control the index servo.
-
-    Experiment with different finger movements to control the robot arm's various joints.
+Experiment with different finger movements to control the robot arm's various joints.
